@@ -1,0 +1,101 @@
+.header{
+    width: 98vw;
+    height:200vh;
+    background-color: rgb(255, 255, 255);
+    margin-top: -20px;
+}
+
+.navtools{
+    width:98vw;
+    height: 20vh;
+    background-color: rgb(255, 255, 255);
+    
+}
+.navtools h1 {
+    position: relative; bottom: -30px;
+    margin-left: 200px;
+}
+ul{
+    margin-left: 900px;
+    position: relative ;bottom: 85px;
+}
+
+
+li{
+    display: inline;
+    padding: 5px;
+    
+
+}
+img{
+    width: 45px;
+    position: relative;top: -35px;left: 150px;
+
+}
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+.img2 img{
+    position: relative;top: -890px;left: 600px;
+    
+}
+.mottocontainer h1{
+    position: relative; top: -900px;left: 300px;
+
+}
+
+.leftbox {
+    width: 300px;
+    height:150px;
+  
+}
+.rightbox{
+    width: 300px;
+    height: 150px;
+    
+}
+
+.boxcontainer{ 
+    display: flex;
+    gap: 35px;
+    position: relative;top: -900px;left: 310px;
+}
+.occcontainer{ 
+   display: flex;
+   gap: 10px;
+   position: relative;top: -800px;left: 150px;
+   
+
+}
+.section1{
+    height:345px;
+    width: 330px;
+    background-color: rgb(0, 204, 177);
+    border-radius: 10px;
+}
+.section2{
+    height:345px;
+    width: 280px;
+    background-color: rgb(61, 131, 223);
+    border-radius: 10px;
+}
+.section3{
+    height:345px;
+    width: 330px;
+    background-color: rgb(27, 39, 52);
+    border-radius: 10px;
+}
+
+.section1{
+   text-align: center;
+   color: aliceblue;
+}
+.section2{
+    text-align: center;
+    color: aliceblue;
+ }
+ .section3{
+    text-align: center;
+    color: aliceblue;
+ }
