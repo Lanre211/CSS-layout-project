@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+
+}
+ul{
+    display: flex;
+    position: relative;left: 900px;
+    
+}
+#grid-container{
+    display:grid;
+    height:90vh;
+    width: 80vw;
+    grid-template-columns: 40vh 40vh;
+    
+    
+
+}
